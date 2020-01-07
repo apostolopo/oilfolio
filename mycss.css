@@ -1,0 +1,69 @@
+
+.img1 
+{
+  margin:0%;
+  padding-top:0%;  
+}
+
+.navbar 
+{
+	margin:0%;
+	color:#729e2e;
+	border-radius: 1px;
+}
+
+.navbar-inverse .navbar-brand
+{
+	color:#729e2e;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #729e2e;
+}
+.nav.navbar-nav.navbar-right li a:hover
+{
+	color: #fff;
+}
+.nav.navbar-nav li a
+{
+	color:#729e2e;
+} 
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   padding-top:10px;
+   height:40px;
+   width: 100%;
+   background-color:#333;
+   color: #729e2e;
+   text-align: center;
+}
+.container
+{
+	
+   margin-bottom:10px;
+   
+
+}
+
+.alert.alert-success
+{
+	margin-top:2%;
+	color:#333;
+	font-style:italic;
+}
+.btn.btn1
+{
+	background-color:#d6e9c6;
+	color:#000;
+	border-color:#d6e9c6;
+}
+.nav.navbar-nav.navbar-right li a:active {
+    color: #fff;
+}
+.navbar-inverse .navbar-nav>.active>a
+{
+	background-color:#9d9d9d;
+	color:#fff;
+}
